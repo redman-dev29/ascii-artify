@@ -11,13 +11,16 @@ Description and characteristics of tools for local development of the ASCII-Arti
 * [k3d](https://k3d.io/) - is a lightweight wrapper to run k3s (Rancher Lab’s minimal Kubernetes distribution) in docker. k3d makes it very easy to create single- and multi-node k3s clusters in docker, e.g. for local development on Kubernetes.
 
 
-|                            |       minikube                    |       kind           |       k3d            |
-|:---------------------------|:---------------------------------:|:--------------------:|:--------------------:|
-|Support OS:                 | Linux, macOS, Windows             | Linux, macOS, Windows| Linux, macOS, Windows|
-|Architectures:              | x86-64, arm64, armv7, ppc64, s390x| x86-64, arm64        | x86-64, arm64, armv7 |
-|Additional functions:       | Addons                            |                      |                      |
-|Monitoring:                 | Integrated K8S Dashboard UI       |                      |                      |
-|Managing Kubernetes:        | Kubectl                           | Kubectl              |                      |
+|                      |       minikube                    |       kind           |       k3d            |
+|:---------------------|:---------------------------------:|:--------------------:|:--------------------:|
+|Support OS:           | Linux, macOS, Windows             | Linux, macOS, Windows| Linux, macOS, Windows|
+|Architectures:        | x86-64, arm64, armv7, ppc64, s390x| x86-64, arm64        | x86-64, arm64, armv7 |
+|Additional functions: | Addons                            |                      |                      |
+|Monitoring:           | Integrated K8S Dashboard UI       |                      |                      |
+|Container Manager[^1]:| Docker, Podman                    | Docker, Podman       | Docker, Podman       |
+|Managing Kubernetes:  | Kubectl                           | Kubectl              |                      |  
+
+[^1]: To avoid [Docker licensing](https://www.docker.com/pricing/) issues, [Podman](https://docs.podman.io/en/latest/) can be used as an alternative.
 _ _ _
 #### 2. After testing these three tools, we have the following results:
 
@@ -32,10 +35,6 @@ _ _ _
 _ _ _
 #### 3. The final step is to deploy the "Hello World" application to the Kubernetes cluster.
 
-Here is a simple footnote[^1].
 
-A footnote can also have multiple lines[^2].
 
-[^1]: My reference.
-[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
-  This is a second line.
+
