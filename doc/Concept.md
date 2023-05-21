@@ -1,7 +1,6 @@
 # ascii-artify
 Description and characteristics of tools for local development of the ASCII-Artify project.
 
->#### Important:
 >This repository is created to compare different application launch and testing tools against the original repository:
 >https://github.com/Gopal9816/ASCII-Artify
 ---
@@ -34,7 +33,7 @@ _ _ _
 |Community support:          | Slack, Twitter, GitHub     | Slack, GitHub, Email list| Slack                |
 _ _ _
 #### 3. The final step is to deploy the "Hello World" application to the Kubernetes cluster.
-
-
+* Deploying a "Hello world" application to a Kubernetes cluster using **minikube**.
+![Image](.data/minikube_demo.gif)
 
 
