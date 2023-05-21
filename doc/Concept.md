@@ -17,7 +17,7 @@ Description and characteristics of tools for local development of the ASCII-Arti
 |Additional functions: | Addons                            |                      |                      |
 |Monitoring:           | Integrated K8S Dashboard UI       |                      |                      |
 |Container Manager[^1]:| Docker, Podman                    | Docker, Podman       | Docker, Podman       |
-|Managing Kubernetes:  | Kubectl                           | Kubectl              |                      |  
+|Managing Kubernetes:  | Kubectl                           |                      |                      |  
 
 [^1]: To avoid [Docker licensing](https://www.docker.com/pricing/) issues, [Podman](https://docs.podman.io/en/latest/) can be used as an alternative. But remember, Podman is an experimental driver. Please use it only for experimental reasons until it has reached maturity. For a more reliable minikube experience, use a Docker.
 _ _ _
@@ -37,4 +37,4 @@ _ _ _
 
 ![Image](https://github.com/redman-dev29/ascii-artify/blob/main/.data/minikube_demo.gif)
 
-
+* Deploying a "Hello world" application to a Kubernetes cluster using **kind**.
