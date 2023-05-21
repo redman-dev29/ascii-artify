@@ -34,6 +34,7 @@ _ _ _
 _ _ _
 #### 3. The final step is to deploy the "Hello World" application to the Kubernetes cluster.
 * Deploying a "Hello world" application to a Kubernetes cluster using **minikube**.
-![Image](.data/minikube_demo.gif)
+
+![Image](https://github.com/redman-dev29/ascii-artify/blob/main/.data/minikube_demo.gif)
 
 
