@@ -19,7 +19,7 @@ Description and characteristics of tools for local development of the ASCII-Arti
 |Container Manager[^1]:| Docker, Podman                    | Docker, Podman       | Docker, Podman       |
 |Managing Kubernetes:  | Kubectl                           | Kubectl              | Kubectl              |  
 
-[^1]: To avoid [Docker licensing](https://www.docker.com/pricing/) issues, [Podman](https://docs.podman.io/en/latest/) can be used as an alternative. But remember, Podman is an experimental driver. Please use it only for experimental reasons until it has reached maturity. For a more reliable experience, use a Docker.
+[^1]: To avoid [Docker licensing](https://www.docker.com/pricing/) issues, [Podman](https://docs.podman.io/en/latest/) can be used as an alternative. But remember, Podman is an experimental driver. Please use it only for experimental reasons until it has reached maturity.
 _ _ _
 #### 2. After testing these three tools, we have the following results:
 
