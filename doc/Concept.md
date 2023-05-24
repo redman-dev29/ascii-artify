@@ -38,3 +38,5 @@ _ _ _
 ![Image](https://github.com/redman-dev29/ascii-artify/blob/main/.data/minikube_demo.gif)
 
 * Deploying a "Hello world" application to a Kubernetes cluster using **kind**.
+
+![Image](https://github.com/redman-dev29/ascii-artify/blob/main/.data/kind_demo.gif)
