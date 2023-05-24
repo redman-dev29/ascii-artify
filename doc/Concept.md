@@ -44,3 +44,8 @@ _ _ _
 * Deploying a "Hello world" application to a Kubernetes cluster using **k3d**.
 
 ![Image](https://github.com/redman-dev29/ascii-artify/blob/main/.data/k3d_demo.gif)
+
+#### Conclusion:
+**The best tool, in my opinion, is, of course, minikube: easy to use, fast when deploying the application, stable operation and quite clear and detailed documentation. And also, a well-knit and numerous community support.**
+
+**Also, as an alternative, you can also consider and k3d. Impressive speed of cluster creation and application deployment.**
