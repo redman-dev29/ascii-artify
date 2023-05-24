@@ -26,7 +26,7 @@ _ _ _
 |                            |       minikube             |       kind               |       k3d            |
 |:---------------------------|:--------------------------:|:------------------------:|:--------------------:|
 |Ease of use:                | :heavy_check_mark:         | :x:                      | :x:                  |
-|Deployment speed:           | :heavy_check_mark:         | :x:                      | :x:                  |
+|Deployment speed:           | :heavy_check_mark:         | :heavy_check_mark:       | :heavy_check_mark:   |
 |Stability of work:          | :heavy_check_mark:         | :x:                      | :heavy_check_mark:   |
 |Complexity of setup and use:| :heavy_check_mark:         | :x:                      | :x:                  |
 |Documentation:              | :heavy_check_mark:         | :heavy_check_mark:       | :heavy_check_mark:   |
