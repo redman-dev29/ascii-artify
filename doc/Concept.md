@@ -40,3 +40,7 @@ _ _ _
 * Deploying a "Hello world" application to a Kubernetes cluster using **kind**.
 
 ![Image](https://github.com/redman-dev29/ascii-artify/blob/main/.data/kind_demo.gif)
+
+* Deploying a "Hello world" application to a Kubernetes cluster using **k3d**.
+
+![Image](https://github.com/redman-dev29/ascii-artify/blob/main/.data/k3d_demo.gif)
