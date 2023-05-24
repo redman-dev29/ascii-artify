@@ -17,7 +17,7 @@ Description and characteristics of tools for local development of the ASCII-Arti
 |Additional functions: | Addons                            |                      |                      |
 |Monitoring:           | Integrated K8S Dashboard UI       |                      |                      |
 |Container Manager[^1]:| Docker, Podman                    | Docker, Podman       | Docker, Podman       |
-|Managing Kubernetes:  | Kubectl                           |                      |                      |  
+|Managing Kubernetes:  | Kubectl                           | Kubectl              | Kubectl              |  
 
 [^1]: To avoid [Docker licensing](https://www.docker.com/pricing/) issues, [Podman](https://docs.podman.io/en/latest/) can be used as an alternative. But remember, Podman is an experimental driver. Please use it only for experimental reasons until it has reached maturity. For a more reliable minikube experience, use a Docker.
 _ _ _
