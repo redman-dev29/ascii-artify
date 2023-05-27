@@ -1,5 +1,5 @@
 ### ascii-artify
-Description and characteristics of tools for local development of the ASCII-Artify project.
+### Description and characteristics of tools for local development of the ASCII-Artify project.
 ---
 #### 1. Three tools were chosen for testing:
 * [minikube](https://minikube.sigs.k8s.io/docs/) - is local Kubernetes, focusing on making it easy to learn and develop for Kubernetes. All you need is Docker (or similarly compatible) container or a Virtual Machine environment, and Kubernetes is a single command away: `minikube start`
