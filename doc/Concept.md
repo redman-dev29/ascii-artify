@@ -1,4 +1,4 @@
-# ascii-artify
+### ascii-artify
 Description and characteristics of tools for local development of the ASCII-Artify project.
 ---
 #### 1. Three tools were chosen for testing:
